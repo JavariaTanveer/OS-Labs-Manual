@@ -1,1 +1,1 @@
-# OS-Labs-Manual
+# OS-Lab-Manuals
